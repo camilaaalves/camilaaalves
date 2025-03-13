@@ -22,6 +22,6 @@ Hi 👋 My name is Camila Alves
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/camilaaalves"><img src="https://github-readme-stats.vercel.app/api?username=camilaaalves&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="camilaaalves's GitHub stats" /></a>
-
 <a href="https://github.com/camilaaalves" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaalves&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/camilaaalves"><img src="https://github-readme-stats.vercel.app/api?username=camilaaalves&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="camilaaalves's GitHub stats" /></a>
